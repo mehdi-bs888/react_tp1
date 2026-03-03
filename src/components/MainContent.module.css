@@ -1,0 +1,33 @@
+.main {
+  flex: 1;
+  padding: 1rem;
+}
+
+.board {
+  display: flex;
+  gap: 1rem;
+}
+
+.column {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  min-width: 250px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.colTitle {
+  margin-bottom: 1rem;
+}
+
+.card {
+  background: #f4f4f4;
+  padding: 8px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  transition: 0.2s;
+}
+
+.card:hover {
+  background: #eaeaea;
+}
