@@ -1,0 +1,6 @@
+.form { display: flex; flex-direction: column; gap: 1rem; } 
+.input { padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; } 
+.input:focus { border-color: #3498db; outline: none; } 
+.colorPicker { width: 40px; height: 36px; border: none; border-radius: 4px; } 
+.submit { background: #1B8C3E; color: white; border: none; border-radius: 4px; cursor: pointer; } 
+.cancel { background: #ccc; color: #333; border: none; border-radius: 4px; cursor: pointer; } 
