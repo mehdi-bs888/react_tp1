@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Routes, Route, Navigate } from 'react-router-dom'; 
 import Login from './features/auth/Login'; 
 import Dashboard from './pages/Dashboard'; 

@@ -32,6 +32,7 @@
   padding: 6px 10px;
   border-radius: 50%;
   font-size: 0.9rem;
+<<<<<<< HEAD
 }
 .right { display: flex; align-items: center; gap: 1rem; }
 .userName { font-size: 0.9rem; opacity: 0.9; }
@@ -39,3 +40,6 @@
  color: white; padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer;
  font-size: 0.85rem; transition: background 0.2s; }
 .logoutBtn:hover { background: rgba(255,255,255,0.25); }
+=======
+}
+>>>>>>> 9577dd63666a96190f6e7dd8020a34f272409909
